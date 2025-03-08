@@ -163,13 +163,4 @@ python src/statistical_analysis.py
 
 ---
 
-## Contributing
-1. Fork the repository.  
-2. Create a new branch (`feature-branch`).  
-3. Commit your changes.  
-4. Submit a pull request.  
-
----
-
-Let me know if you need any refinements or additions! 🚀
 
