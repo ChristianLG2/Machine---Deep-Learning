@@ -13,11 +13,15 @@ Problem & Motivation:
 "In many organizations, surveys generate a vast amount of textual responses, but analyzing them manually is time-consuming and prone to bias. My approach leverages Latent Dirichlet Allocation (LDA) to automatically categorize responses into meaningful topics. Additionally, I incorporated sentiment analysis to assess the emotional tone of each topic, helping decision-makers better interpret customer or employee feedback."
 
 Methodology:
-"The project involved several key steps:
+"The project involved several key steps: 
 1️⃣ Text Preprocessing: Removing stopwords, tokenizing, and lemmatizing the text.
+
 2️⃣ Topic Modeling: Using LDA to discover hidden patterns and optimizing the number of topics based on coherence scores.
+
 3️⃣ Visualization: Implementing T-SNE for topic clustering and word clouds to highlight sentiment-driven words.
+
 4️⃣ Sentiment Analysis: Applying VADER to score each response’s sentiment and analyze sentiment variations across topics.
+
 5️⃣ Statistical Validation: Running 1000 simulations to confirm the model’s robustness, followed by hypothesis testing to validate the significance of the results."
 
 Key Findings:
