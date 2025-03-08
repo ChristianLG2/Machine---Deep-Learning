@@ -1,7 +1,38 @@
 # Topic Modeling of Survey Responses: Unsupervised Learning With LDA
 
 ## Author: Christian Lira Gonzalez  
-## Summer 2023  
+## Summer 2023  (Revised on March 2025)
+
+
+## Quick Overview
+
+Introduction:
+"This project is an application of unsupervised machine learning to analyze open-ended survey responses. The goal was to automate the process of extracting key themes from large-scale text data and enhance the insights through sentiment analysis and statistical validation."
+
+Problem & Motivation:
+"In many organizations, surveys generate a vast amount of textual responses, but analyzing them manually is time-consuming and prone to bias. My approach leverages Latent Dirichlet Allocation (LDA) to automatically categorize responses into meaningful topics. Additionally, I incorporated sentiment analysis to assess the emotional tone of each topic, helping decision-makers better interpret customer or employee feedback."
+
+Methodology:
+"The project involved several key steps:
+1️⃣ Text Preprocessing: Removing stopwords, tokenizing, and lemmatizing the text.
+2️⃣ Topic Modeling: Using LDA to discover hidden patterns and optimizing the number of topics based on coherence scores.
+3️⃣ Visualization: Implementing T-SNE for topic clustering and word clouds to highlight sentiment-driven words.
+4️⃣ Sentiment Analysis: Applying VADER to score each response’s sentiment and analyze sentiment variations across topics.
+5️⃣ Statistical Validation: Running 1000 simulations to confirm the model’s robustness, followed by hypothesis testing to validate the significance of the results."
+
+Key Findings:
+"The results showed that the coherence scores remained stable across multiple simulations, meaning the topics generated were reliable. Additionally, the sentiment analysis revealed that responses were predominantly positive, providing valuable insights into customer or employee satisfaction. The hypothesis testing further confirmed that the model was statistically significant, ensuring that the extracted topics were not random."
+
+Value & Business Impact:
+*"This project can be applied in real-world business scenarios, such as:
+✅ Customer Feedback Analysis – Identifying key pain points and trends in customer reviews.
+✅ Employee Engagement Surveys – Understanding workplace sentiment and concerns.
+✅ Market Research – Extracting insights from public sentiment on social media or product surveys.
+
+By automating the text analysis process, businesses can make data-driven decisions more efficiently and focus on actionable insights instead of spending hours manually categorizing responses."*
+
+Conclusion:
+"This project demonstrates my ability to apply machine learning and natural language processing to real-world challenges. It showcases my skills in data preprocessing, topic modeling, sentiment analysis, and statistical validation—all of which are crucial for roles in data science, business intelligence, and analytics. I'm excited about the opportunity to bring this expertise to your team and solve complex data problems with innovative solutions."
 
 ## Project Overview
 This project applies **Latent Dirichlet Allocation (LDA)** to extract topics from open-ended survey responses. Additionally, **sentiment analysis** and **statistical validation** are performed to assess model stability across multiple simulations.
