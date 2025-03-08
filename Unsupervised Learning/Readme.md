@@ -34,17 +34,6 @@ By automating the text analysis process, businesses can make data-driven decisio
 Conclusion:
 "This project demonstrates my ability to apply machine learning and natural language processing to real-world challenges. It showcases my skills in data preprocessing, topic modeling, sentiment analysis, and statistical validation—all of which are crucial for roles in data science, business intelligence, and analytics. I'm excited about the opportunity to bring this expertise to your team and solve complex data problems with innovative solutions."
 
-## Project Overview
-This project applies **Latent Dirichlet Allocation (LDA)** to extract topics from open-ended survey responses. Additionally, **sentiment analysis** and **statistical validation** are performed to assess model stability across multiple simulations.
-
-The main objectives include:
-- Automating **topic extraction** from survey responses.
-- Performing **sentiment analysis** using **VADER**.
-- Evaluating **topic coherence** through **multiple simulations**.
-- Conducting **hypothesis testing** to validate model robustness.
-- Visualizing **topic distributions, sentiment trends, and statistical measures**.
-
-By leveraging **unsupervised learning**, this project improves the efficiency of survey analysis and enhances decision-making based on textual data.
 
 ---
 
