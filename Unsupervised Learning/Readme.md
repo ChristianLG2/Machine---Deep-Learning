@@ -25,14 +25,19 @@ Methodology:
 
 5️⃣ Statistical Validation: Running 1000 simulations to confirm the model’s robustness, followed by hypothesis testing to validate the significance of the results."
 
+
 Key Findings:
 "The results showed that the coherence scores remained stable across multiple simulations, meaning the topics generated were reliable. Additionally, the sentiment analysis revealed that responses were predominantly positive, providing valuable insights into customer or employee satisfaction. The hypothesis testing further confirmed that the model was statistically significant, ensuring that the extracted topics were not random."
 
 Value & Business Impact:
 *"This project can be applied in real-world business scenarios, such as:
+
 ✅ Customer Feedback Analysis – Identifying key pain points and trends in customer reviews.
+
 ✅ Employee Engagement Surveys – Understanding workplace sentiment and concerns.
+
 ✅ Market Research – Extracting insights from public sentiment on social media or product surveys.
+
 
 By automating the text analysis process, businesses can make data-driven decisions more efficiently and focus on actionable insights instead of spending hours manually categorizing responses."*
 
